@@ -9,7 +9,7 @@
                     <div class="header__content__menu">
                         <input type="text" placeholder="Rechercher">
                         <ul class="header__content__menu__item">
-                            <li><a href="">Acceuil</a></li>
+                            <li><a href="/home">Acceuil</a></li>
                             <li><a href="">A propos</a></li>
                             <li><a href="">Articles</a></li>
                             <li><a href="">Contacts</a></li>
